@@ -1,0 +1,2 @@
+# Sentiment-Driven-Review-Score-Prediction-for-Hotels-Using-Ensemble-Regression-Models
+This project predicts hotel review scores using sentiment analysis (VADER). Polarity scores from sentiment analysis serve as features, while reviewer scores are the target. Ensemble regression models, particularly Random Forest, excel due to their ability to handle overfitting and combine multiple trees for accurate predictions.
